@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">QuizBuilder</string>
+    <string name="app_name">Quiz Builder 2017</string>
+    <string name="app_title">Quiz Tester</string>
+    <string name="start_quiz">Start Quiz</string>
 </resources>
